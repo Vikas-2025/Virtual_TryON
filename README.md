@@ -1,9 +1,30 @@
-# Virtual_TryON
-Virtual Clothing TrialON Project
+# Virtual TryON
 
-What is Virtual TryON.ai ??
+Welcome to the Virtual TryON project! This is an innovative platform that allows users to virtually try on clothing using advanced computer vision and augmented reality (AR) technologies.
 
-Virtual trial of clothing allows users to digitally try on outfits without physically wearing them. Using augmented reality or computer vision technology, users can see how different clothes fit and look on their virtual avatars or live video feed. This technology provides an interactive and immersive shopping experience, helping users make informed decisions about their purchases and reducing the need for returns. It offers convenience, saves time, and enhances the overall shopping experience by enabling users to visualize and evaluate clothing options accurately.
+## About Virtual TryON
 
-Command to Run App
-Stramlit run app.py
+Virtual TryON revolutionizes the shopping experience by enabling users to try on different outfits digitally without needing to physically wear them. Users can visualize how clothes fit and look on their virtual avatars or live video feeds in real time. This interactive experience helps shoppers make informed purchasing decisions, minimizes returns, and saves time, providing a seamless and enhanced shopping experience.
+
+## Key Features
+
+- **Real-Time Clothing Simulation**: View how outfits look on your avatar instantly.
+- **Immersive Shopping Experience**: Explore different styles, fits, and colors as if you were in a physical store.
+- **Reduced Returns**: Make more informed purchase decisions to minimize returns.
+- **Easy Navigation**: Intuitive interface for seamless browsing and trying on clothes.
+
+## How to Run the App
+
+To run the Virtual TryON app:
+
+1. Make sure you have the necessary dependencies installed. You may need to install them using pip:
+    ```shell
+    pip install -r requirements.txt
+    ```
+
+2. Launch the app using the following command:
+    ```shell
+    streamlit run app.py
+    ```
+
+3. Open your browser and navigate to the provided URL to access the app.
